@@ -1,8 +1,8 @@
 # Obsession
 A curated cover song series portraying the transition from emotional obsession to self-actualization.
 
-##Description
-“Obsession” is a 9–10 minute experimental audio project featuring a curated set of cover songs interwoven with original soundscapes and transitions. Each section explores the emotional evolution from romantic attachment to personal empowerment.
+## Description
+“Obsssion” is a 9–10 minute experimental audio project featuring a curated set of cover songs interwoven with original soundscapes and transitions. Each section explores the emotional evolution from romantic attachment to personal empowerment.
 
 ## Songs Included
 - My Junk (Spring Awakening)
